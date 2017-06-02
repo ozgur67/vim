@@ -1,0 +1,11 @@
+int a;
+int b;":wq
+":wq
+
+
+
+
+
+insert
+"
+
